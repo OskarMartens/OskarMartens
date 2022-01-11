@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OskarMartens
-- 👀 I’m interested in programming, dancing and fintech.
+- 👀 I’m interested in programming and dancing.
 - 🌱 I’m currently learning Java at Stockholm Technical Institute. And also how to use Github.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
