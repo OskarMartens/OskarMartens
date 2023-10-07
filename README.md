@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OskarMartens
 - 👀 I’m interested in programming and dancing.
-- 🌱 I’m currently learning Java at Stockholm Technical Institute. And also how to use Github.
+- 🌱 Software developer that works mainly in Java and JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
